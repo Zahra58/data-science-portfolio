@@ -1,4 +1,5 @@
-![Portfolio Banner](banne.png)
+![Portfolio Banner](image/Banner.png)
+
 
 # 🧠 Zahra Etebari — Data Science & Machine Learning Portfolio
 
