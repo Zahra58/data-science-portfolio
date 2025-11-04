@@ -5,7 +5,7 @@
 
 Welcome to my portfolio!  
 I’m **Zahra Etebari**, an **AI Engineer & Data Mining Enthusiast** passionate about leveraging data to build intelligent, scalable, and interpretable solutions.  
-This portfolio highlights my **end-to-end projects** in Data Science, Machine Learning, and AI — from data preprocessing and modeling to visualization and deployment.
+This portfolio highlights my **end-to-end projects** in Data Science, Machine Learning, and AI  from data preprocessing and modeling to visualization and deployment.
 
 ---
 
