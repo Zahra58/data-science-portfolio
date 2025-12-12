@@ -8,6 +8,28 @@ I’m **Zahra Etebari**, an **AI Engineer & Data Mining Enthusiast** passionate 
 This portfolio highlights my **end-to-end projects** in Data Science, Machine Learning, and AI  from data preprocessing and modeling to visualization and deployment.
 
 ---
+<div align="center">
+
+## 👉 **[🌟 TRY LIVE DEMO HERE 🌟](https://from-lab-to-ai.vercel.app/)** 👈
+
+</div>
+
+<div align="center">
+  
+[![Live Demo](https://img.shields.io/badge/_LIVE_DEMO-Click_Here!-blueviolet?style=for-the-badge&logo=vercel&logoColor=white&labelColor=5B21B6&color=A855F7)](https://from-lab-to-ai.vercel.app/)
+
+</div>
+
+<div align="center">
+  <a href="https://from-lab-to-ai.vercel.app/">
+    <img src="https://img.shields.io/badge/_TRY_IT_NOW-30cfd0?style=for-the-badge&logoColor=white" alt="Try Demo" />
+  </a>
+  <a href="https://from-lab-to-ai.vercel.app/">
+    <img src="https://img.shields.io/badge/_LIVE_PROJECT-667eea?style=for-the-badge&logoColor=white" alt="Live Project" />
+  </a>
+</div>
+
+---
 
 ##  Featured Projects
 
@@ -19,6 +41,19 @@ This portfolio highlights my **end-to-end projects** in Data Science, Machine Le
 - Saved trained models (`.pkl`) for reuse or deployment.  
 
 ---
+<div align="center">
+  <h2>
+    <a href="https://from-lab-to-ai.vercel.app/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&repeat=true&width=600&height=100&lines=+CLICK+TO+VIEW+LIVE+DEMO!;✨+TRY+IT+NOW!;🌟+LIVE+PROJECT+HERE!" alt="Demo Button" />
+    </a>
+  </h2>
+</div>
+
+<div align="center">
+  <a href="https://from-lab-to-ai.vercel.app/">
+    <img src="https://img.shields.io/badge/_LIVE_DEMO-Click_Here_To_Try!-blueviolet?style=for-the-badge&logo=vercel&logoColor=white&labelColor=5B21B6&color=A855F7&animation=pulse" width="400" />
+  </a>
+</div>
 ---
 
 ###  [Computer Vision – Object Detection & Tracking](https://github.com/Zahra58/Computer-vision-Object-detection)
@@ -107,6 +142,15 @@ Deployment	Streamlit, Netlify, PWA
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zahra58&theme=radical" alt="Profile Summary"/>
 </p>
+---
+
+<div align="center">
+
+#  [**CLICK HERE FOR LIVE DEMO** ](https://from-lab-to-ai.vercel.app/)
+
+[![Live Demo](https://img.shields.io/badge/_TRY_DEMO_NOW!-Click_To_Visit-5B21B6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=A855F7&color=7C3AED)](https://from-lab-to-ai.vercel.app/)
+
+</div>
 
 ---
 <div align="center">
